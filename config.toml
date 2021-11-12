@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://tonimas35.github.io/Polaris/'
 languageCode = 'es'
 title = 'Polaris'
 theme = "hugo-theme-air"

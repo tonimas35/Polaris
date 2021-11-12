@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Polaris</title>
-    <link>http://example.org/post/</link>
+    <link>https://tonimas35.github.io/Polaris/post/</link>
     <description>Recent content in Posts on Polaris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tonimas35.github.io/Polaris/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ProBa</title>
-      <link>http://example.org/post/test/</link>
+      <link>https://tonimas35.github.io/Polaris/post/test/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/test/</guid>
+      <guid>https://tonimas35.github.io/Polaris/post/test/</guid>
       <description>ja se que prova es amb V</description>
     </item>
     
     <item>
       <title>test post</title>
-      <link>http://example.org/post/test/</link>
+      <link>https://tonimas35.github.io/Polaris/post/test/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/test/</guid>
+      <guid>https://tonimas35.github.io/Polaris/post/test/</guid>
       <description>arnau: &amp;#34;helia guapa &amp;lt;3!!&amp;#34; </description>
     </item>
     
