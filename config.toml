@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'Polaris'
+theme = "hugo-theme-air"
+
